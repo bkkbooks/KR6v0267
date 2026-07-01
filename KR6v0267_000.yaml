@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0267/i/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 趙郡王高叡定國寺碑
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0060.xml
+    old_id: I01n0060
+hash: sha256:9aefde7e8ffe61a0f7777be0fc6e57577278e34917581774f61ffea9268917dc

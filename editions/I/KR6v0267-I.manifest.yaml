@@ -1,0 +1,68 @@
+canonical_identifier: bkk:krp/KR6v0267/I/v1
+canonical_location: https://kanripo.org/bkk/KR6v0267/I/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 趙郡王高叡定國寺碑
+  identifiers:
+    krp: KR6v0267
+    cbeta: I01n0060
+    cbeta_old_id: I01n0060
+    authorityid: CA0008195
+    json_key: I0060
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0060.xml
+    old_id: I01n0060
+  edition:
+    short: I
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0267_000-I.yaml, hash: 'sha256:9aefde7e8ffe61a0f7777be0fc6e57577278e34917581774f61ffea9268917dc'}
+  - {seq: 1, filename: KR6v0267_001-I.yaml, hash: 'sha256:4ade016f31359a094afc1182a82741f44b796f1c44c5c0e161e24ab83e9ac0a3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0267_000-I.markers.yaml, hash: 'sha256:806940342bc6325466ffa9d39a888114be9cd35a67fcafe17c70ccc8c28c2fa7'}
+  - {seq: 1, role: markers, filename: assets/KR6v0267_001-I.markers.yaml, hash: 'sha256:25bcabe52898cd7acb18978c515fc209d25ff25864c515250ebbd2a39b80d701'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0267_I_001-juan-start
+    span:
+    - body
+    - 0
+    - 2301
+  label: 趙郡王高叡定國寺碑
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0267_I_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 碑陽
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0267_I_001-mulu-2
+    span:
+    - body
+    - 2
+    - 2
+  label: 額
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0267_I_001-mulu-3
+    span:
+    - body
+    - 10
+    - 10
+  label: 本文
+  type: mulu
+  level: 1
+hash: sha256:c7021e40e13e42ce0b950262501ffffde2637a3ae64e91c1d726fcc205642d35
